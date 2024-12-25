@@ -57,7 +57,7 @@ h1 {
 h1::before {
   content: '';
   display: inline-block;
-  background: url('https://uxwing.com/google-gemini-icon/');
+  background: url('https://brandlogo.org/wp-content/uploads/2024/06/Gemini-Icon-300x300.png.webp');
   width: 40px;
   height: 40px;
   background-size: cover;

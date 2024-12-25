@@ -3,7 +3,7 @@
 
 This project is an Image Analyzer application that allows users to upload an image and input instructions for analysis. The application uses HTML, CSS, and JavaScript for the frontend and integrates with the Gemini API for processing.
 
-✨ Features
+# ✨ Features
 
 📤 Image Upload: Users can upload an image for analysis.
 
@@ -21,7 +21,7 @@ Backend: Integration with Gemini API for image analysis
 
 Responsive Design: Ensures compatibility across different devices
 
-🚀 How to Use
+# 🚀 How to Use
 
 📷 Upload an Image: Click the "Choose File" button to select an image from your device.
 
@@ -47,7 +47,7 @@ Open the index.html file in your web browser.
 
 The Gemini API is utilized to perform the image analysis. Ensure you have access to the API and include your API key in the JavaScript file where specified.
 
-📂 Project Structure
+# 📂 Project Structure
 
 index.html: The main HTML file for the application.
 
@@ -57,7 +57,7 @@ script.js: Includes the logic for handling image uploads, API integration, and r
 
 assets/: Directory for storing additional resources such as images or icons.
 
-🌟 Future Enhancements
+# 🌟 Future Enhancements
 
 🚀 Enhanced Analysis: Add support for multiple types of image analysis.
 
@@ -71,12 +71,12 @@ assets/: Directory for storing additional resources such as images or icons.
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
-🙌 Acknowledgments
+# 🙌 Acknowledgments
 
 Special thanks to the creators of the Gemini API for their powerful image analysis capabilities.
 
 Inspired by the need for easy and accurate image analysis tools.
 
-🖼️ Screenshot
+# 🖼️ Screenshot
 
 ![Screenshot 2024-12-26 020826](https://github.com/user-attachments/assets/a9e6544b-8d81-4def-8067-51acc1ce0e9a)

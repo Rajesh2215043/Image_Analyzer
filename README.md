@@ -1,4 +1,4 @@
-#🌟 Image Analyzer
+#Image Analyzer
 
 This project is an Image Analyzer application that allows users to upload an image and input instructions for analysis. The application uses HTML, CSS, and JavaScript for the frontend and integrates with the Gemini API for processing.
 
